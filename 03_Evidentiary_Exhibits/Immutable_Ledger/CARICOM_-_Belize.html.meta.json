@@ -1,0 +1,17 @@
+{
+  "url": "https://caricom.org/country_profiles/belize/",
+  "final_url": "https://caricom.org/country_profiles/belize/",
+  "title": "CARICOM - Belize",
+  "fetched_at": "2026-11-23T15:32:02.025818Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 345960,
+  "sha256": "c5b81a750b17baf726d965ff9c22c8e4841d01a20f7ba659f99eea883c345f2d",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
